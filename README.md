@@ -2,11 +2,11 @@
 
 # WANNASA WONGDEE
 
-### Information Technology Student · Web Developer · AI Enthusiast
+### <span style="color:#d16ba5;">Information Technology Student</span> · <span style="color:#7b61ff;">Web Developer</span> · <span style="color:#4f8cff;">AI Enthusiast</span>
 
-*Building useful things with code, one project at a time.*
+**♡ Building useful things with code, one project at a time. ♡**
 
-[🌷 Portfolio](https://imLenarr.github.io) · [GitHub](https://github.com/imLenarr)
+🌷 **[Portfolio](https://imLenarr.github.io)**　·　**[GitHub](https://github.com/imLenarr)**
 
 </div>
 
@@ -14,20 +14,22 @@
 
 <div align="center">
 
-### ABOUT ME
+## 🌸 About Me
+
+*Curious about technology, focused on building, always learning.*
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 Hi! I'm **Wannasa**, an Information Technology student at **Sripatum University**.
 
 I enjoy turning ideas into useful software and learning through hands-on projects. My main interests are **full-stack web development, AI applications, databases, and clean UI/UX**.
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 🎓 **Education**  
 Information Technology · Sripatum University
@@ -49,33 +51,33 @@ Web · AI · Data · UI/UX
 
 <div align="center">
 
-### TECH STACK
+## 🩷 Tech Stack
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**Languages**
+**💻 Languages**
 
 `Python` `C#` `Java`  
 `JavaScript` `HTML` `CSS`
 
-**Frontend & Backend**
+**🌐 Frontend & Backend**
 
 `React` `Vite` `.NET`  
 `FastAPI` `Node.js` `REST API`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**Database & Development**
+**🗄️ Database & Development**
 
 `MySQL` `SQLite` `EF Core`  
 `Git` `GitHub`
 
-**AI & Data**
+**🤖 AI & Data**
 
 `RAG` `FAISS` `LangChain`  
 `NLP` `n8n` `Computer Vision`
@@ -88,13 +90,13 @@ Web · AI · Data · UI/UX
 
 <div align="center">
 
-### FEATURED PROJECTS
+## ✿ Featured Projects
 
 *Selected projects that represent what I enjoy building.*
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -145,11 +147,11 @@ Exploring practical applications of RAG, NLP, automation, and computer vision th
 
 <div align="center">
 
-### PROJECT SHOWCASE
+## 🌷 Project Showcase
 
 Explore more details, technologies, and project work in my dedicated portfolio.
 
-**[🌷 View Project Showcase →](https://imLenarr.github.io)**
+### **[View Project Showcase →](https://imLenarr.github.io)**
 
 </div>
 
@@ -157,7 +159,7 @@ Explore more details, technologies, and project work in my dedicated portfolio.
 
 <div align="center">
 
-♡ **Keep learning · Keep building · Keep improving** ♡
+### ♡ Keep learning · Keep building · Keep improving ♡
 
 <sub>Thanks for visiting my profile.</sub>
 
