@@ -2,56 +2,44 @@
 
 # WANNASA WONGDEE
 
-**Information Technology Student · Web Developer · AI Enthusiast**
+### Information Technology Student · Web Developer · AI Enthusiast
 
-♡ *building useful things with code* ♡
+*Building useful things with code, one project at a time.*
 
-[🌷 Portfolio](https://imLenarr.github.io)　·　[GitHub](https://github.com/imLenarr)
+[🌷 Portfolio](https://imLenarr.github.io) · [GitHub](https://github.com/imLenarr)
 
 </div>
 
 ---
 
-## About Me 🌸
+<div align="center">
 
-Hi! I'm **Wannasa**, an IT student at **Sripatum University** who enjoys turning ideas into useful software.
+### ABOUT ME
 
-I'm interested in **full-stack web development, AI applications, databases, and clean UI/UX**. I enjoy learning through real projects, solving problems, and improving my skills step by step.
-
-**Education** · Information Technology, Sripatum University  
-**Career goal** · Software Engineer  
-**Open to** · Internship & software development projects
-
----
-
-## Tech Stack 🩷
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### Languages
+Hi! I'm **Wannasa**, an Information Technology student at **Sripatum University**.
 
-`Python` `C#` `Java`  
-`JavaScript` `HTML` `CSS`
-
-### Frontend & Backend
-
-`React` `Vite` `.NET`  
-`ASP.NET Core` `FastAPI`
+I enjoy turning ideas into useful software and learning through hands-on projects. My main interests are **full-stack web development, AI applications, databases, and clean UI/UX**.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### Database & Tools
+🎓 **Education**  
+Information Technology · Sripatum University
 
-`MySQL` `SQLite` `Git` `GitHub`  
-`REST API` `EF Core`
+🎯 **Career Goal**  
+Software Engineer
 
-### AI & Development
+💼 **Looking For**  
+Internship & software development opportunities
 
-`RAG` `FAISS` `LangChain`  
-`n8n` `NLP` `Computer Vision`
+🌷 **Interests**  
+Web · AI · Data · UI/UX
 
 </td>
 </tr>
@@ -59,7 +47,52 @@ I'm interested in **full-stack web development, AI applications, databases, and 
 
 ---
 
-## Projects ✿
+<div align="center">
+
+### TECH STACK
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+
+`Python` `C#` `Java`  
+`JavaScript` `HTML` `CSS`
+
+**Frontend & Backend**
+
+`React` `Vite` `.NET`  
+`FastAPI` `Node.js` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+**Database & Development**
+
+`MySQL` `SQLite` `EF Core`  
+`Git` `GitHub`
+
+**AI & Data**
+
+`RAG` `FAISS` `LangChain`  
+`NLP` `n8n` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### FEATURED PROJECTS
+
+*Selected projects that represent what I enjoy building.*
+
+</div>
 
 <table>
 <tr>
@@ -68,7 +101,7 @@ I'm interested in **full-stack web development, AI applications, databases, and 
 ### 🦐 Shrimpy
 **Wholesale Shrimp Sales Platform**
 
-Full-stack system for products, stock, cart, orders, promotions, customer accounts and admin management.
+A full-stack platform for managing shrimp products, stock, shopping carts, orders, promotions, customer accounts, and administration.
 
 `ASP.NET Core MVC` · `C#` · `MySQL` · `EF Core`
 
@@ -78,7 +111,7 @@ Full-stack system for products, stock, cart, orders, promotions, customer accoun
 ### 🥗 NutriChat
 **AI Nutrition Assistant**
 
-Conversational nutrition application with React, FastAPI and RAG-based knowledge retrieval.
+A conversational nutrition application combining a React frontend, FastAPI backend, and RAG-based knowledge retrieval.
 
 `React` · `FastAPI` · `Python` · `RAG` · `FAISS`
 
@@ -87,20 +120,20 @@ Conversational nutrition application with React, FastAPI and RAG-based knowledge
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Warehouse Management
-**Inventory & Warehouse Web App**
+### 📦 Warehouse
+**Inventory Management Web App**
 
-Role-based application for managing products, inventory and user access.
+A role-based web application for managing products, inventory, and user access through a REST API.
 
 `React` · `Vite` · `Node.js` · `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI / Automation Lab
-**Experiments & Learning Projects**
+### 🤖 AI & Automation
+**Learning & Experiment Projects**
 
-Practical experiments with RAG, NLP, automation and computer vision.
+Exploring practical applications of RAG, NLP, automation, and computer vision through coursework and personal projects.
 
 `Python` · `NLP` · `RAG` · `n8n` · `AI`
 
@@ -108,9 +141,15 @@ Practical experiments with RAG, NLP, automation and computer vision.
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-🌷 **[Explore my project showcase →](https://imLenarr.github.io)**
+### PROJECT SHOWCASE
+
+Explore more details, technologies, and project work in my dedicated portfolio.
+
+**[🌷 View Project Showcase →](https://imLenarr.github.io)**
 
 </div>
 
@@ -118,8 +157,8 @@ Practical experiments with RAG, NLP, automation and computer vision.
 
 <div align="center">
 
-### Keep learning · Keep building · Keep improving ♡
+♡ **Keep learning · Keep building · Keep improving** ♡
 
-<sub>Thanks for visiting my profile!</sub>
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
