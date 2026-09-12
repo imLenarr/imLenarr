@@ -1,132 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0F766E&height=190&section=header&text=WANNASA%20WONGDEE&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=Information%20Technology%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+# WANNASA WONGDEE
 
-### 👋 Hi, I'm Wannasa
+**Information Technology Student · Aspiring Software Engineer**
 
-**Information Technology Student · Web Developer · AI Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems.;Web+Development+%2B+AI+%2B+Databases.;Learning+by+building%2C+breaking%2C+and+improving." alt="Typing introduction" />
 
-<p>
-  <a href="https://imLenarr.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-0F766E?style=for-the-badge&labelColor=0F172A" /></a>
-  <a href="https://github.com/imLenarr"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[🌐 Portfolio](https://imLenarr.github.io) · [💻 GitHub](https://github.com/imLenarr)
 
 </div>
 
 ---
 
-## 🌱 About Me
+## `01` — A little about me
 
-Hi! I'm **Wannasa Wongdee**, an Information Technology student at **Sripatum University** who enjoys learning by building real projects.
+> Hi, I'm **Wannasa** 👋  
+> An IT student at **Sripatum University** who enjoys turning ideas into working software.
 
-I'm interested in **software development, web applications, AI-powered systems, and user-friendly interfaces**. I like turning ideas into working applications and continuously improving my coding and problem-solving skills.
-
-🎯 **Career goal:** Software Engineer  
-💡 **Currently learning:** Full-stack Web Development · AI / RAG · Databases · Software Engineering  
-📍 **Open to:** Internship opportunities and software development projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p><img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css" /></p>
-
-### Frontend & Backend
-<p><img src="https://skillicons.dev/icons?i=react,vite,dotnet,fastapi" /></p>
-
-### Database & Tools
-<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github" /></p>
-
-<p>
-<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-164E63?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
+I’m especially interested in **full-stack web development, AI applications, databases, and practical UI/UX**. Most of my learning comes from building projects, solving bugs, and trying to make each version a little better than the last one.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🦐 Shrimpy
-**Online Wholesale Shrimp Sales System**
+🎓 **Education**  
+Information Technology · Sripatum University
 
-A full-stack web application for managing wholesale shrimp products, shopping carts, orders, stock, promotions and customer accounts.
-
-**ASP.NET Core MVC · C# · MySQL · EF Core**
-
-</td>
-<td width="50%" valign="top">
-
-### 🥗 NutriChat
-**AI Nutrition Assistant**
-
-An AI-powered nutrition assistant combining RAG and nutrition knowledge to provide useful food and nutrition guidance.
-
-**React · FastAPI · Python · RAG · FAISS**
+🎯 **Goal**  
+Software Engineer
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📦 Warehouse Management
-**Inventory & Warehouse Web App**
+🔎 **Currently exploring**  
+Full-stack · RAG · AI · Databases
 
-A role-based warehouse management application for handling products, inventory and user access.
-
-**React · Vite · Node.js · REST API**
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Automation
-**Practical AI Projects**
-
-Projects exploring RAG, NLP, AI assistants, automation workflows and computer vision.
-
-**Python · n8n · NLP · RAG · AI**
+💼 **Looking for**  
+Internship & software projects
 
 </td>
 </tr>
 </table>
 
+---
+
+## `02` — My toolbox
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cs,java,js&perline=4" />
+
+</td>
+<td valign="top" width="33%">
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=react,vite,dotnet,fastapi&perline=4" />
+
+</td>
+<td valign="top" width="33%">
+
+### Data & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github&perline=4" />
+
+</td>
+</tr>
+</table>
+
+`RAG` `FAISS` `LangChain` `n8n` `REST API` `EF Core` `NLP`
+
+---
+
+## `03` — Selected work
+
+### 🦐 Shrimpy
+**Wholesale Shrimp Sales Platform**
+
+A full-stack system designed around real business workflows — products, stock, cart, orders, promotions, customer accounts and admin management.
+
+`ASP.NET Core MVC` `C#` `MySQL` `EF Core`
+
+---
+
+### 🥗 NutriChat
+**AI Nutrition Assistant**
+
+A conversational nutrition application combining a React frontend, FastAPI backend and RAG-based knowledge retrieval.
+
+`React` `FastAPI` `Python` `RAG` `FAISS`
+
+---
+
+### 📦 Warehouse Management
+**Inventory & Warehouse Web App**
+
+A role-based web application for managing products, inventory and access across different user roles.
+
+`React` `Vite` `Node.js` `REST API`
+
+---
+
+### 🤖 AI / Automation Lab
+**Experiments beyond the classroom**
+
+Exploring practical applications of RAG, NLP, automation and computer vision — from assistants to workflow automation.
+
+`Python` `NLP` `RAG` `n8n` `AI`
+
 <div align="center">
-<a href="https://imLenarr.github.io"><img src="https://img.shields.io/badge/✨%20View%20Project%20Showcase-0F766E?style=for-the-badge&labelColor=0F172A" /></a>
+
+### [→ Explore the project showcase](https://imLenarr.github.io)
+
 </div>
 
 ---
 
-## 📚 What I'm Working On
+## `04` — What I'm working on
 
-- Building better **full-stack web applications**
-- Improving my **backend and database** skills
-- Exploring **RAG and AI application development**
-- Learning cleaner and more practical **UI/UX**
-- Preparing projects and experience for my **software engineering internship**
+```text
+┌──────────────────────────────────────────────────────┐
+│  CURRENT FOCUS                                       │
+├──────────────────────────────────────────────────────┤
+│  ▸ Building full-stack applications                  │
+│  ▸ Improving backend + database design               │
+│  ▸ Learning practical RAG / AI development           │
+│  ▸ Creating cleaner interfaces                        │
+│  ▸ Preparing for a software engineering internship   │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub
+## `05` — GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imLenarr&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&icon_color=2DD4BF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLenarr&layout=compact&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=imLenarr&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLenarr&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=imLenarr&hide_border=true" height="165" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 Keep learning. Keep building. Keep improving.
+**Build. Learn. Improve. Repeat.**
 
-<sub>Thanks for visiting my profile!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:164E63,100:0F172A&height=100&section=footer" width="100%" />
+<sub>Thanks for stopping by — feel free to explore my projects.</sub>
 
 </div>
