@@ -2,7 +2,7 @@
 
 # WANNASA WONGDEE
 
-**Information Technology Student · Aspiring Software Engineer**
+**Information Technology Student**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems.;Web+Development+%2B+AI+%2B+Databases.;Learning+by+building%2C+breaking%2C+and+improving." alt="Typing introduction" />
 
